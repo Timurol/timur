@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
+	<ChartOfCalculationTypes uuid="be344c4e-7a8b-4bd8-bc90-368bf6ec8042">
+		<InternalInfo>
+			<xr:GeneratedType name="ChartOfCalculationTypesObject.ДополнительныеНачисления" category="Object">
+				<xr:TypeId>f274a0ff-ae70-47e4-b19b-209b8b6b50c4</xr:TypeId>
+				<xr:ValueId>d9a8c1b3-79ed-4cb3-9409-63ca465cbf2b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCalculationTypesRef.ДополнительныеНачисления" category="Ref">
+				<xr:TypeId>f509ed47-6c7c-49a7-87b6-7bb9d28759ef</xr:TypeId>
+				<xr:ValueId>6b9f365e-75c7-4536-a9e6-45c7164433db</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCalculationTypesSelection.ДополнительныеНачисления" category="Selection">
+				<xr:TypeId>4296a621-c30f-44da-ab08-d9b95224ded3</xr:TypeId>
+				<xr:ValueId>3cb82190-9b7d-4b4c-93b4-bcd2c10dc0f5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCalculationTypesList.ДополнительныеНачисления" category="List">
+				<xr:TypeId>4901e4a6-dae5-451e-88f0-0b7c9fff238f</xr:TypeId>
+				<xr:ValueId>43bc4a2d-7400-4dee-a002-776efaf3f13f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCalculationTypesManager.ДополнительныеНачисления" category="Manager">
+				<xr:TypeId>c7f74990-1fab-46a3-9819-40a9c6184443</xr:TypeId>
+				<xr:ValueId>05a2fddf-7570-409c-ace6-7716098df676</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DisplacingCalculationTypes.ДополнительныеНачисления" category="DisplacingCalculationTypes">
+				<xr:TypeId>682634d0-59f3-4d80-88c9-bb4eeaa7992b</xr:TypeId>
+				<xr:ValueId>645182b5-b28d-4292-9a40-23c6d8660481</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DisplacingCalculationTypesRow.ДополнительныеНачисления" category="DisplacingCalculationTypesRow">
+				<xr:TypeId>b351c320-5c08-4379-b36b-c82418e92541</xr:TypeId>
+				<xr:ValueId>73324d25-2d5c-4140-b0af-882219b8392f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="BaseCalculationTypes.ДополнительныеНачисления" category="BaseCalculationTypes">
+				<xr:TypeId>99ddf676-d705-4e83-991e-ca4cd0688c67</xr:TypeId>
+				<xr:ValueId>20ba76ae-8ace-4465-bdd4-19d6359b0421</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="BaseCalculationTypesRow.ДополнительныеНачисления" category="BaseCalculationTypesRow">
+				<xr:TypeId>94acb66e-ce19-4918-b93d-145bdf5e9011</xr:TypeId>
+				<xr:ValueId>cb84f9ba-fad4-431c-b294-5725660eb9bb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="LeadingCalculationTypes.ДополнительныеНачисления" category="LeadingCalculationTypes">
+				<xr:TypeId>39e30f29-088c-4f05-b8b7-673f57061a36</xr:TypeId>
+				<xr:ValueId>bcb2c414-b8a5-4d28-b8a1-93a18690a688</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="LeadingCalculationTypesRow.ДополнительныеНачисления" category="LeadingCalculationTypesRow">
+				<xr:TypeId>a9640705-76be-45c5-9caf-7baca019f8be</xr:TypeId>
+				<xr:ValueId>9b88cf2d-eae1-4472-a5bd-9028058bb036</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ДополнительныеНачисления</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Дополнительные начисления</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>true</UseStandardCommands>
+			<CodeLength>9</CodeLength>
+			<DescriptionLength>40</DescriptionLength>
+			<CodeType>String</CodeType>
+			<CodeAllowedLength>Variable</CodeAllowedLength>
+			<DefaultPresentation>AsDescription</DefaultPresentation>
+			<EditType>InDialog</EditType>
+			<QuickChoice>false</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<InputByString>
+				<xr:Field>ChartOfCalculationTypes.ДополнительныеНачисления.StandardAttribute.Description</xr:Field>
+				<xr:Field>ChartOfCalculationTypes.ДополнительныеНачисления.StandardAttribute.Code</xr:Field>
+			</InputByString>
+			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
+			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
+			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
+			<CreateOnInput>DontUse</CreateOnInput>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+			<DefaultObjectForm/>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryObjectForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<BasedOn/>
+			<DependenceOnCalculationTypes>DontUse</DependenceOnCalculationTypes>
+			<BaseCalculationTypes/>
+			<ActionPeriodUse>false</ActionPeriodUse>
+			<Characteristics/>
+			<PredefinedDataUpdate>Auto</PredefinedDataUpdate>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<DataLockFields/>
+			<DataLockControlMode>Managed</DataLockControlMode>
+			<FullTextSearch>Use</FullTextSearch>
+			<ObjectPresentation/>
+			<ExtendedObjectPresentation/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<DataHistory>DontUse</DataHistory>
+			<UpdateDataHistoryImmediatelyAfterWrite>false</UpdateDataHistoryImmediatelyAfterWrite>
+			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
+		</Properties>
+		<ChildObjects/>
+	</ChartOfCalculationTypes>
+</MetaDataObject>
